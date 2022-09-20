@@ -1,54 +1,87 @@
 {
 
- 
-  "Orders": [
-    {
-      "ProductPicture":"/product1.jpg",
-      "ProductName":"Swatch FG500",
-      "Quantity": "3",
-      "Color":"bg-slate-700",
-      "ClientName":"Hmida OuldRouis",
-      "ClientPhoneNumber":"+21365897455",
-      "Location":"Algiers, Bab el oued",
-      "Status":"0",
-      
-      
-    },
-     {
-      "ProductPicture":"/product2.jpg",
-      "ProductName":"Swatch FG500",
-      "Quantity": "2",
-      "Color":"bg-gray-300",
-      "ClientName":"Ibrahim Bournine",
-      "ClientPhoneNumber":"+213549432164",
-      "Location":"Boumerdes, Isser",
-      "Status":"1",
-      
-      
-    },
-     {
-      "ProductPicture":"/product1.jpg",
-      "ProductName":"Swister the bolk watch f20",
-      "Quantity": "1",
-      "Color":"bg-black",
-      "ClientName":"Wahab Merskani",
-      "ClientPhoneNumber":"+21355894425",
-      "Location":"Algiers, Val d'hydra",
-      "Status":"1",
-      
-      
-    },
-     {
-      "ProductPicture":"/product1.jpg",
-      "ProductName":"Swatch FG500",
-      "Quantity": "2",
-      "Color":"bg-slate-700",
-      "ClientName":"Oussama Hamoudi",
-      "ClientPhoneNumber":"+21365897455",
-      "Location":"Algiers, Bab el oued",
-      "Status":"1",
-      
-      
-    }
-    ]
+   "Orders":[
+
+      {
+
+         "ProductPicture":"/product1.jpg",
+
+         "ProductName":"Swatch FG500",
+
+         "Quantity":"3",
+
+         "Color":"bg-slate-700",
+
+         "ClientName":"Hmida OuldRouis",
+
+         "ClientPhoneNumber":"+21365897455",
+
+         "Location":"Algiers, Bab el oued",
+
+         "Status":"0"
+
+      },
+
+      {
+
+         "ProductPicture":"/product2.jpg",
+
+         "ProductName":"Swatch FG500",
+
+         "Quantity":"2",
+
+         "Color":"bg-gray-300",
+
+         "ClientName":"Ibrahim Bournine",
+
+         "ClientPhoneNumber":"+213549432164",
+
+         "Location":"Boumerdes, Isser",
+
+         "Status":"1"
+
+      },
+
+      {
+
+         "ProductPicture":"/product1.jpg",
+
+         "ProductName":"Swister the bolk watch f20",
+
+         "Quantity":"1",
+
+         "Color":"bg-black",
+
+         "ClientName":"Wahab Merskani",
+
+         "ClientPhoneNumber":"+21355894425",
+
+         "Location":"Algiers, Val d'hydra",
+
+         "Status":"1"
+
+      },
+
+      {
+
+         "ProductPicture":"/product1.jpg",
+
+         "ProductName":"Swatch FG500",
+
+         "Quantity":"2",
+
+         "Color":"bg-slate-700",
+
+         "ClientName":"Oussama Hamoudi",
+
+         "ClientPhoneNumber":"+21365897455",
+
+         "Location":"Algiers, Bab el oued",
+
+         "Status":"1"
+
+      }
+
+   ]
+
 }
